@@ -23,4 +23,4 @@
 
 
 
-על מנת לשחק במשחק [לחץ כאן](https://adinahmias.itch.io/flapp)
+
