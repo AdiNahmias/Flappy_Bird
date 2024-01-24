@@ -27,7 +27,7 @@ DistroyOnTrigger2D script - [click here](https://github.com/AdiNahmias/Flappy_Bi
 
 
 
-בכדי לשחק במשחק [לחץ כאן](https://adinahmias.itch.io/flap)
+בכדי לשחק במשחק [לחץ כאן](https://adinahmias.itch.io/flapp)
 
 
 
