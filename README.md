@@ -4,16 +4,17 @@
 
 במשחק נדרש ללחוץ על "space" כדי להשאיר את הציפור עפה. השחקן נפסל כאשר הציפור תיפול אל התהום או כאשר תתנגש באחד הצינורות במסך:
 
-![image](https://github.com/AdiNahmias/Flappy_Bird/assets/118722490/e28e2202-7fda-4d37-ba0f-16b158c751a3)
+![image](https://github.com/AdiNahmias/Flappy_Bird/blob/main/Assets/Scripts/BirdScript.cs)
 
+תפקיד המחלקה BirdScript הוא לקבוע את תנועת הציפור.
 
+BirsScript - [click here](https://github.com/AdiNahmias/Flappy_Bird/blob/main/Assets/Scripts/BirdScript.cs)
 
-
-תפקיד המחקלה PipeMover הוא ליצור צינורות הזזים לאורך המסך במהירות מסויימת. 
+תפקיד המחקלה PipeMover הוא ליצור תזוזה לאורך המסך במהירות מסויימת. 
 
 PipeMover script - [click here](https://github.com/AdiNahmias/Flappy_Bird/blob/main/Assets/Scripts/PipeMover.cs)
 
-תפקיד המחקלה PipeSpawner הוא ליצור צינואות בגבהים שונים לאורך המסך (הגובה של הצינור התחתון יהיה שונה מזה של העליון).
+תפקיד המחקלה PipeSpawner הוא ליצור צינורת חדשים בגבהים שונים לאורך המסך.
 
 PipeSpawner script - [click here](https://github.com/AdiNahmias/Flappy_Bird/blob/main/Assets/Scripts/PipeSpawner.cs)
 
