@@ -3,8 +3,8 @@
 משחק זה מדמה את המשחק "Flappy Bird".
 
 במשחק נדרש ללחוץ על "space" כדי להשאיר את הציפור עפה. השחקן נפסל כאשר הציפור תיפול אל התהום או כאשר תתנגש באחד הצינורות במסך:
+![Screenshot 2024-01-23 144040]
 
-![image](https://github.com/AdiNahmias/Flappy_Bird/blob/main/Assets/Scripts/BirdScript.cs)
 
 תפקיד המחלקה BirdScript הוא לקבוע את תנועת הציפור.
 
